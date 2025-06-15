@@ -32,13 +32,13 @@ This activity could align with:
 
 ## 🛠️ Tools Used
 
-- VirusTotal.com <br><br>
-  ![Screenshot3](https://i.imgur.com/SUhy5bV.png)
-- urlscan.io <br><br>
-- ![Screenshot4](https://i.imgur.com/9QAvScc.png)
-- WHOIS Lookup <br><br>
-- ![Screenshot5](https://i.imgur.com/2BNnjW5.png)
-- [MITRE ATT&CK Framework](https://attack.mitre.org/)
+[VirusTotal](virustotal.com) <br><br>
+![Screenshot3](https://i.imgur.com/SUhy5bV.png)<br><br>
+[urlscan.io](urlscan.io) <br><br>
+![Screenshot4](https://i.imgur.com/9QAvScc.png)
+[WHOIS Lookup](https://www.whois.com/) <br><br>
+![Screenshot5](https://i.imgur.com/2BNnjW5.png)<br><br>
+[MITRE ATT&CK Framework](https://attack.mitre.org/techniques/T1566/003/)
 
 ---
 
@@ -66,7 +66,7 @@ This investigation is based on publicly available information and personal resea
 
 ## 📎 Original LinkedIn Post
 
-[🔗 Read the LinkedIn post](https://lnkd.in/g6Emiuqy)
+[🔗 Read the LinkedIn post](https://www.linkedin.com/posts/mohamed-alhabib-gharbi_cybersecurity-osint-threatintel-activity-7339950976159621120-0pR6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADw17dYBC_BwCwVpyKu4ICGTpemvNLDJoAI)
 
 ---
 
