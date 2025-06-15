@@ -32,7 +32,7 @@ This activity could align with:
 
 ## 🛠️ Tools Used
 
-[VirusTotal](virustotal.com) <br><br>
+[VirusTotal](https://virustotal.com) <br><br>
 ![Screenshot3](https://i.imgur.com/SUhy5bV.png)<br><br>
 [urlscan.io](urlscan.io) <br><br>
 ![Screenshot4](https://i.imgur.com/9QAvScc.png)
